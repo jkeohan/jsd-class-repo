@@ -1,6 +1,6 @@
 # Make a BankAccount Class
 
-For this exercise you will be creating a BankAccount class.
+For this exercise you will open a new Repl and be creating a BankAccount class.
 
 It will have the following properties...
 * `type` (e.g., "checking"), which should be determined by some input
