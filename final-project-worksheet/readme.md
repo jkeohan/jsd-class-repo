@@ -8,13 +8,13 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Sep 25th| Project Description | Incomplete
-|Sep 25th| Wireframes / Priority Matrix / Functional Components | Incomplete
-|Sep 26th| Core Application Structure (HTML, CSS, etc.) | Incomplete
-|Sep 27th| Pseudocode | Incomplete
-|Sep 28th| Initial JS  | Incomplete
-|Sep 29th| Bug Fixes | Incomplete
-|Sep 30th| Present | Incomplete
+|Sep 25th|  | Incomplete
+|Week . 5| Project Description / Wireframes / Functional Components | Incomplete
+|Week 6| Core Application Structure (HTML, CSS, etc.) | Incomplete
+|Week 7| Pseudocode | Incomplete
+|Week 8| Initial JS  | Incomplete
+|Week 9| Bug Fixes | Incomplete
+|Week 10| Present | Incomplete
 
 
 ## Project Description
@@ -24,10 +24,6 @@ Use this section to describe your final project and perhaps any links to relevan
 ## Wireframes
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
-
-## Priority Matrix
-
-Include a full list of features that have been prioritized based on the `Time and Importance` Matix.  
 
 ### MVP/PostMVP - 5min
 
