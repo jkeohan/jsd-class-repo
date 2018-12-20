@@ -8,7 +8,6 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Sep 25th|  | Incomplete
 |Week . 5| Project Description / Wireframes / Functional Components | Incomplete
 |Week 6| Core Application Structure (HTML, CSS, etc.) | Incomplete
 |Week 7| Pseudocode | Incomplete
